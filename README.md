@@ -1,4 +1,6 @@
-# Jay-recipes
+# Jay-recipes (Broke ass edition)
+
+Check the recipes <a href="https://esllana.github.io/Jay-recipes/"><Strong>HERE!</Strong></a>
 
 A list of my personal curated recipes. Enjoy!
 
