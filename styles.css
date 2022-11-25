@@ -1,9 +1,11 @@
 /* Styles */
 
-* {
+body {
  margin: 15px 25px;  
- font-family: verdana, 'open sans', sans-serif  
+ font-family: verdana, 'open sans', sans-serif;
+ justify-content: center;
 }
+
 
 .logo {
     height: 150px;
@@ -12,36 +14,34 @@
     margin: 0 auto;
 }
 
-.line-1 {
-    height: 4px;
+.line1 {
+    height: 2px;
+    margin: auto;
     background: #a0d6b4;
+    margin-top: 10px;
   }
 
-.heading {
-    color: #317873;
-}
-  
-.home-picture {
-    height: auto;
-    width: 600px;
-}
-.info-box {
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    border-radius: 5px;
-    color:black;
-    font-family: verdana, 'open sans', sans-serif;
-    margin-bottom: 25px;
-    padding: 10px 14px 10px 15px;
-    position: relative;
-    box-shadow: 0px 1px 5px #999;
-    background-color: #a0d6b4;
+
+.cover {
+    width: 900px;
+    height: 500px;
+    /* background-color: rgb(151, 111, 111); */ 
+    margin-top: 30px;
+    display: flex;
+} 
+
+.Frame {
+    /*background-color: black;*/
+    margin: 20px;
+    width: 800px;
+    height: 100px;
+    justify-content: center;
     text-align: center;
-    float: right;
+    box-shadow: -20px 0 20px #a0d6b4;
 }
 
-.info-box:before {
-    content: "❗ ";      
-    margin-left: 2px;
-    
-    }
+.img1 {
+    height: 350px;
+    width: auto;
+    display: flex;
+}
