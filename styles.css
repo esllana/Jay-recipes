@@ -16,7 +16,6 @@ body {
 
 .line1 {
     height: 2px;
-    margin: auto;
     background: #a0d6b4;
     margin-top: 10px;
   }
@@ -31,13 +30,12 @@ body {
 } 
 
 .Frame {
-    /*background-color: black;*/
-    margin: 20px;
-    width: 800px;
-    height: 100px;
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid #5f9ea0;
     justify-content: center;
     text-align: center;
-    box-shadow: -20px 0 20px #a0d6b4;
+    box-shadow: -5px 0 10px #a0d6b4;
 }
 
 .img1 {
