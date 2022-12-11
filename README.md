@@ -11,4 +11,5 @@ This website will demonstrate:
 3. Lists
 4. Links and images
 5. Proper text formatting
+6. Flex, wrapping, and footnote
 
